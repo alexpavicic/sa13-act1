@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+
+}
+
+p {
+  text-align: center;
+}
+
+td{
+  font-family: 'Lobster', italic;
+  color: white;
+  font-size: 40px;
+}
+
+td{
+  font-family: 'Lobster', cursive;
+  color: white;
+  font-size: 30px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-around; 
+}
+
+table {
+  flex: 1;
+  padding: 20px;
+  margin: 15px;
+  width: 500px;
+}
+
