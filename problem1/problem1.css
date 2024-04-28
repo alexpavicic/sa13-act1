@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    margin: 15px;
+}
+  
+header {
+      background-color: #03A9F4;
+      text-align: center;
+      font-family: "Helvetica", "Corbel", sans-serif;
+      font-style: italic;
+}
+  
+h2 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+  
+footer {
+    padding: 40px;
+    color: #607D8B;
+}
